@@ -48,7 +48,8 @@ Contenus de ce repository
 Ce repository contient les deux dossiers Frontend et Backend. Vous pouvez cloner ce repository pour récupérer en local les deux parties
 Front et Back de l'application.
 
-
+Architecture solide du site sous MVC
+https://github.com/DavyHaYehoudi/HotSauce/blob/master/P6_07_MVC.png
 
 🔨   Installation
 Cloner ce projet depuis GitHub.
