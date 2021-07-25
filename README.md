@@ -31,6 +31,7 @@ API REST
 
 Sécurité OWASP et RGPD
 https://github.com/DavyHaYehoudi/HotSauce/blob/master/P6_05_OWASP.ods
+https://github.com/DavyHaYehoudi/HotSauce/blob/master/P6_06_Jwt.png
 
 Instructions relatives à l’API
 
